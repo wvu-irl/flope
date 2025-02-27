@@ -1,2 +1,1 @@
-# flope
-FloPE: Flower Pose Estimation for Precision Pollination
+# FloPE: Flower Pose Estimation for Precision Pollination
