@@ -1,0 +1,5 @@
+path: /home/rashik_shrestha/data/flowerprop
+train: images/train
+val: images/val
+names:
+    0: flower

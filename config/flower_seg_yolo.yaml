@@ -1,0 +1,6 @@
+path: /users/rs00140/dataset/yolo_seg
+train: images/train
+val: images/val
+nc: 1
+names:
+    0: f

@@ -1,0 +1,3 @@
+device: cuda
+weights: /home/rashik_shrestha/ws/sunflower/scripts/weights/posenet_e183.pth
+data_dir: /home/rashik_shrestha/data/sunflower/plantscan_pixel_1230_raw

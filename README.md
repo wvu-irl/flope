@@ -1,2 +1,1 @@
-# FloPE: Flower Pose Estimation for Precision Pollination
-Code coming soon ...
+# 🌻FloPE: Flower Pose Estimation for Precision Pollination
