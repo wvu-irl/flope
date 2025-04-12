@@ -4,7 +4,7 @@
 
 # FloPE Pose Annotator Tool
 
-<p align="center">
+<p align="left">
     <img src="media/flope_annotator.png" alt="FloPE Pose Annotator Tool" width="500">
 </p>
 
