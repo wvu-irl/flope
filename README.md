@@ -4,7 +4,9 @@
 
 # FloPE Pose Annotator Tool
 
-![FloPE Pose Annotator Tool](media/flope_annotator.png)
+<p align="center">
+    <img src="media/flope_annotator.png" alt="FloPE Pose Annotator Tool" width="500">
+</p>
 
 # BibTex
 
