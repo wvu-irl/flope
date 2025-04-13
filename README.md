@@ -21,9 +21,8 @@
   </a>
 </p>
 
-<video id="teaser" autoplay muted loop playsinline height="100%">
-  <source src="https://wvu-irl.github.io/flope-irl/static/videos/teaser.mp4" type="video/mp4">
-</video>
+
+![Teaser](media/github_teaser.png)
 
 # FloPE Pose Annotator Tool
 
