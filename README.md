@@ -24,11 +24,38 @@
 
 ![Teaser](media/github_teaser.png)
 
-# FloPE Pose Annotator Tool
+# 🛠️ Installation Guide
+
+## 📦 Prerequisites
+
+Make sure you have [Miniconda](https://docs.conda.io/en/latest/miniconda.html) or [Anaconda](https://www.anaconda.com/products/distribution) installed on your system.
+
+You can check by running:
+
+```bash
+conda --version
+```
+
+## 🚀 Environment Setup
+```bash
+git clone https://github.com/wvu-irl/flope.git
+cd flope
+conda env create -f environment.yml
+echo "export PYTHONPATH=$(pwd):\$PYTHONPATH" >> ~/.bashrc # use zshrc if you are using zsh terminal
+source ~/.bashrc
+conda activate sunflower
+```
+
+# 🔧 FloPE Pose Annotator Tool
 
 <p align="left">
     <img src="media/flope_annotator.png" alt="FloPE Pose Annotator Tool" width="500">
 </p>
+
+```bash
+cd pose_annotator
+python annotator.py
+```
 
 # BibTex
 
