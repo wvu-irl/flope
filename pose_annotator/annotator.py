@@ -11,7 +11,7 @@ class PlotData:
         self.delta_trans = 0.01
         self.delta_rot = 10
         # self.poses = read_flower_poses_data(flower_poses_file)
-        self.poses = np.load('gt_poses.npy')
+        self.poses = np.load('data/flower_poses.npy')
         self.N = self.poses.shape[0]
         print(f"{self.N} poses loaded.")
         self.selected_pose = 0
@@ -41,7 +41,7 @@ class PlotData:
         return rotmat
 
     def save_poses(self):
-        np.save(filename:='gt_poses.npy', self.poses[self.mask])
+        np.save(filename:='data/flower_poses.npy', self.poses[self.mask])
         print(f"Poses saved to: {filename}")
         return filename
 

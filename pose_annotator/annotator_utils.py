@@ -226,7 +226,7 @@ def read_flower_poses_data(filename, det_threshold=30):
 
 def get_flower_model():
     #! Read splats
-    points, colors = read_splats_ply('data/splats.ply')
+    points, colors = read_splats_ply('data/plant_3dgs_model_cropped.ply')
 
     #! Read transforms
     with open('data/dataparser_transforms.json', 'r') as f:
