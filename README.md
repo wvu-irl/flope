@@ -52,6 +52,8 @@ conda activate sunflower
     <img src="media/flope_annotator.png" alt="FloPE Pose Annotator Tool" width="500">
 </p>
 
+Make sure to download `plant_3dgs_model_cropped.ply` from [here](https://github.com/wvu-irl/flope/releases/tag/release1), and put it inside `/path/to/flope/pose_annotator/data` directory.
+
 ```bash
 cd pose_annotator
 python annotator.py
