@@ -62,10 +62,12 @@ python annotator.py
 # BibTex
 
 ```
-@article{shrestha2025flope,
+@inproceedings{shrestha2025flope,
   title={FloPE: Flower Pose Estimation for Precision Pollination},
   author={Shrestha, Rashik and Rijal, Madhav and Smith, Trevor and Gu, Yu},
-  journal={arXiv preprint arXiv:2503.11692},
-  year={2025}
+  booktitle={2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={3033--3039},
+  year={2025},
+  organization={IEEE}
 }
 ```
